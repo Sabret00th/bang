@@ -1,0 +1,32 @@
+'''BANG REQUIREMENTS'''
+
+'''Periodic routines
+
+Login to JIRA, JIRA for profiles: http://hcmjira.infor.com:8080/secure/Dashboard.jspa
+evaluate profiles in own then JK's queue (supervisor)
+
+
+'''
+
+
+#Monday
+
+'''
+9a (scheduled in outlook), attend and verbally summarize locked-down profiles where BA == self
+[maybe this is an area for human touch]
+
+maybe bang prepares the summaries for you, what do youwant?
+
+bang_speak([Profile name, comment on sample size, comment ratio sample to population,])
+
+'''
+
+import pyttsx
+
+#alleged world record fastest human speech (incomprehensible) was 637 wpm
+#https://www.youtube.com/watch?v=c4-CRv0ih28 
+#according to wikipedia summary, audiobook speech recommendation is 150 - 160wpm
+# as slow as 100 for presentations and as fast as 250 - 300 for auctions and debates
+
+bang
+
